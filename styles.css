@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ec9cd275;
+}
+
+#main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:50px;
+    margin-bottom: 5px;
+}
+
+#img-div {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#image1 {
+    max-width: 50%;
+    height: 500px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+#image2 {
+    max-width: 50%;
+    height: 500px;
+    width: auto;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#img-caption {
+    font-style: italic;
+}
+
+#tribute-info {
+    text-align: justify;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.negrita_color{
+    font-weight: bold;
+    color: rgb(243, 10, 10);
+}
+
+.maquina_analitica{
+    text-decoration: none;
+}
+
+.maquina_analitica :hover{
+    text-decoration:underline;
+}
+
+.contacto{
+    text-align: center;
+}
+
+.contacto :hover{
+    color: rgb(250, 2, 2);
+    text-decoration:overline;
+}
